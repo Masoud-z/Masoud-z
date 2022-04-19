@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Masoud-z
+- 👋 Hi, I’m Masoud
 - 👀 I’m interested in fornt-end
 - 🌱 I’m currently learning JS - React
 - 💞️ I’m looking to collaborate on front-end projects
