@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in fornt-end
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 Email: masoud.zeinalabedini@gmail.com
 
