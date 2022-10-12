@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Masoud
-- 👀 I’m interested in fornt-end
+- 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 Email: masoud.zeinalabedini@gmail.com
