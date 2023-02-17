@@ -44,9 +44,11 @@ ___
 
 ### :fire: My Stats :
 
-
+ <div id="stats" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud-z&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
  
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in Frontend
