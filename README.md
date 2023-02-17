@@ -14,8 +14,9 @@
  <a href="https://www.linkedin.com/in/masoud-zeinalabedini/" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
-### :woman_technologist: Coding on ReactJS and dreaming on ReactJS, Help companies to build complex web applications serving 1000+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
 </div>
+---
+ :technologist: Coding on ReactJS and dreaming on ReactJS, Help companies to build complex web applications serving 1000+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Reactjs
