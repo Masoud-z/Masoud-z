@@ -7,6 +7,9 @@
   This is Masoud,  
   A FrontEnd Developer
 </h1>
+<div id="aboutMe" align="center">
+ :technologist: Coding on ReactJS and dreaming on ReactJS, Help companies to build complex web applications serving 1000+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
+ </div>
 <div id="badges" align="center">
   <a href="http://masoud.live/" target="_blank"> 
   <img src="https://img.shields.io/badge/Personal Website-blue?style=for-the-badge" alt="Personal Website Badge"/>
@@ -19,9 +22,7 @@
  </a>
 </div>
 
-<div id="aboutMe">
- :technologist: Coding on ReactJS and dreaming on ReactJS, Help companies to build complex web applications serving 1000+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
- </div>
+
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Reactjs
