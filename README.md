@@ -13,13 +13,13 @@
  </br>
 <div id="badges" align="center">
   <a href="http://masoud.live/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Personal Website-blue?style=for-the-badge" alt="Personal Website Badge"/>
+  <img src="https://img.shields.io/badge/Personal Website-blue?style=for-the-badge" title="Personal Website" alt="Personal Website Badge"/>
  </a>
  <a href="https://www.linkedin.com/in/masoud-zeinalabedini/" target="_blank"> 
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn alt="LinkedIn Badge"/>
  </a>
   <a href="mailto:masoud.zeinalabedini@gmail.com" target="_blank"> 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail Badge"/>
  </a>
 </div>
 
