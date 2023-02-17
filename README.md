@@ -30,7 +30,7 @@ ___
 <table>
   <tbody>
     <tr>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"
           width="48"
@@ -40,7 +40,7 @@ ___
         />
         <br /><strong>HTML5</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"
           width="48"
@@ -50,7 +50,7 @@ ___
         />
         <br /><strong>CSS3</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"
           width="48"
@@ -60,7 +60,7 @@ ___
         />
         <br /><strong>JavaScript</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://camo.githubusercontent.com/f1dce0381ee0b1e19bc2d2dd0d09d28a52656ab4524f3aef66ebf8aa675f7e54/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3130323470782d547970657363726970745f6c6f676f5f323032302e7376672e706e67"
           width="48"
@@ -70,7 +70,7 @@ ___
         />
         <br /><strong>TypeScript</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"
           width="48"
@@ -80,7 +80,7 @@ ___
         />
         <br /><strong>React.js</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://camo.githubusercontent.com/21720310db32d39c264ede7d1e55aeacaceda2ef24c715cd3e8171aa4759e338/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f3230352f313634383832303131372d6e6578746a732e737667"
           width="48"
@@ -90,7 +90,7 @@ ___
         />
         <br /><strong>Next.js</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://emotion.sh/logo-96x96.png"
           width="68"
@@ -100,7 +100,7 @@ ___
         />
         <br /><strong>Emotion</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://camo.githubusercontent.com/9d77cf86f820de21d3edbdc0ef15f1c880df93633a41c6da7afc3c39b2b8a1c0/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e706e67"
           width="48"
@@ -110,7 +110,7 @@ ___
         />
         <br /><strong>MaterialUI</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
           width="48"
@@ -120,7 +120,7 @@ ___
         />
         <br /><strong>Bootstrap</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
           width="48"
@@ -133,6 +133,7 @@ ___
     </tr>
   </tbody>
 </table>
+
                                  
 ___
 
