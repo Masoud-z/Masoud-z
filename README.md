@@ -44,9 +44,9 @@ ___
 
 ### :fire: My Stats :
 
-<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Masoud-z)](https://git.io/streak-stats)
-</div>
+
  
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in Frontend
