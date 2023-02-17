@@ -45,9 +45,8 @@ ___
 ### :fire: My Stats :
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Masoud-z)](https://git.io/streak-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud-z&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud-z&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
  
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in Frontend
