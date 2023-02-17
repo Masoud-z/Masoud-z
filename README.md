@@ -23,6 +23,8 @@
  </a>
 </div>
 
+</hr>
+
 
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in Frontend
