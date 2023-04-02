@@ -145,25 +145,11 @@ ___
 
 ___
 
- <div
-      style="
-        background-color: #1aa0ff;
-        color: aliceblue;
-        box-shadow: 2px 2px 10px #79bcec;
-        margin: 0 40px;
-        padding: 10px 20px;
-        border-radius: 10px;
-        line-height: 1.5;
-        font-size: 18px;
-        font-weight: 700;
-        text-align: center;
-      "
-    >
-      Fortunatly I got hired soon after I started learning. Since all the code
-      I've written for the company has been private, my Github account makes it
-      look like I didn’t code at all. But I have been busy writing code almost
-      every day for a year.
-    </div>
+<h3 id="badges" align="center" > 
+  Fortunatly I got hired soon after I started learning. Since all the code I've written for the company has been private, my Github account makes it look like I didn’t code at all. But I have been busy writing code almost every day for a year.
+                                                                                                                                        
+ </h3>
+                              
 ___
 
 ### :high_brightness: Stay in touch with me:
