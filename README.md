@@ -120,7 +120,33 @@ ___
         />
         <br /><strong>Bootstrap</strong>
       </td>
-      <td align="center" height="90" width="90">
+    
+    </tr>
+                                 
+    <tr align="center">
+                      
+       <td align="center" height="90" width="90">
+        <img src="https://camo.githubusercontent.com/b09f15fe3d44c2b5e42427493007e8238273ca88775b91eb82a8f4cba84f734b/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b73696d722f64766d2f6d61737465722f646172742d6c6f676f2e706e67"
+          width="48"
+          height="48"
+          alt="Dart"
+          style="max-width: 100%"
+        />
+        <br /><strong>Dart</strong>
+      </td>
+                                 
+    <td align="center" height="90" width="90">
+        <img
+          src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"
+          width="48"
+          height="48"
+          alt="Flutter"
+          style="max-width: 100%"
+        />
+        <br /><strong>Flutter</strong>
+      </td>
+                      
+       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
           width="48"
@@ -130,7 +156,9 @@ ___
         />
         <br /><strong>Git</strong>
       </td>
-    </tr>
+                                 
+     </tr>
+                                 
   </tbody>
 </table>
 
