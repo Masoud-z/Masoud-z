@@ -121,9 +121,13 @@ ___
         <br /><strong>Bootstrap</strong>
       </td>
     
-    </tr>
-                                 
-    <tr align="center">
+    </tr>                                 
+  </tbody>
+</table>
+
+<table align="center">
+  <tbody align="center">
+  <tr align="center">
                       
        <td align="center" height="90" width="90">
         <img src="https://camo.githubusercontent.com/b09f15fe3d44c2b5e42427493007e8238273ca88775b91eb82a8f4cba84f734b/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b73696d722f64766d2f6d61737465722f646172742d6c6f676f2e706e67"
@@ -158,10 +162,8 @@ ___
       </td>
                                  
      </tr>
-                                 
   </tbody>
 </table>
-
                                  
 ___
 
