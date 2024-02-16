@@ -72,7 +72,7 @@ ___
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/7a683ce0cc64c4893047d3a5706dd273a1e0b602/react-original-wordmark.svg"
           width="48"
           height="48"
           alt="React"
@@ -82,7 +82,7 @@ ___
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/21720310db32d39c264ede7d1e55aeacaceda2ef24c715cd3e8171aa4759e338/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f3230352f313634383832303131372d6e6578746a732e737667"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/7a683ce0cc64c4893047d3a5706dd273a1e0b602/nextjs-line.svg"
           width="48"
           height="48"
           alt="Next.js"
@@ -102,7 +102,7 @@ ___
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/9d77cf86f820de21d3edbdc0ef15f1c880df93633a41c6da7afc3c39b2b8a1c0/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e706e67"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-material-ui-480.png"
           width="48"
           height="48"
           alt="MaterialUI"
@@ -128,23 +128,23 @@ ___
     <tr align="center">
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/b09f15fe3d44c2b5e42427493007e8238273ca88775b91eb82a8f4cba84f734b/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b73696d722f64766d2f6d61737465722f646172742d6c6f676f2e706e67"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-tailwind-css-240.png"
           width="48"
           height="48"
-          alt="Dart"
+          alt="TailwindCSS"
           style="max-width: 100%"
         />
-        <br /><strong>Dart</strong>
+        <br /><strong>TailwindCSS</strong>
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-redux-480.png"
           width="48"
           height="48"
-          alt="Flutter"
+          alt="Redux"
           style="max-width: 100%"
         />
-        <br /><strong>Flutter</strong>
+        <br /><strong>Redux</strong>
       </td>
       <td align="center" height="90" width="90">
         <img
