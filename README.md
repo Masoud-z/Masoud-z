@@ -32,7 +32,7 @@ ___
     <tr align="center">
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-html5-480.png"
           width="48"
           height="48"
           alt="HTML"
@@ -42,7 +42,7 @@ ___
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-css-240.png"
           width="48"
           height="48"
           alt="CSS3"
@@ -52,7 +52,7 @@ ___
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-javascript-480.png"
           width="48"
           height="48"
           alt="JavaScript"
@@ -62,7 +62,7 @@ ___
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://camo.githubusercontent.com/f1dce0381ee0b1e19bc2d2dd0d09d28a52656ab4524f3aef66ebf8aa675f7e54/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3130323470782d547970657363726970745f6c6f676f5f323032302e7376672e706e67"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-typescript-480.png"
           width="48"
           height="48"
           alt="TypeScript"
