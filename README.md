@@ -194,7 +194,7 @@ ___
 ___
 
 <h3 id="badges" align="center" > 
-  Fortunately I got hired soon after I started learning. Since all the codes I've written for the companies have been private, my Github account makes it look like I didn’t code at all. But I have been busy writing code almost every day for about three years.
+  Fortunately I got hired soon after I started learning. Since all the codes I've written for the companies have been private, my Github account makes it look like I didn’t code at all. But I have been busy writing code almost every day for past three years.
                                                                                                                                         
  </h3>
                               
