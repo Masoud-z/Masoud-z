@@ -92,13 +92,13 @@ ___
       </td>
       <td align="center" height="90" width="90">
         <img
-          src="https://emotion.sh/logo-96x96.png"
-          width="68"
-          height="68"
-          alt="Emotion"
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-tailwind-css-240.png"
+          width="48"
+          height="48"
+          alt="TailwindCSS"
           style="max-width: 100%"
         />
-        <br /><strong>Emotion</strong>
+        <br /><strong>TailwindCSS</strong>
       </td>
       <td align="center" height="90" width="90">
         <img
@@ -128,14 +128,15 @@ ___
     <tr align="center">
       <td align="center" height="90" width="90">
         <img
-          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-tailwind-css-240.png"
-          width="48"
-          height="48"
-          alt="TailwindCSS"
+          src="https://emotion.sh/logo-96x96.png"
+          width="68"
+          height="68"
+          alt="Emotion"
           style="max-width: 100%"
         />
-        <br /><strong>TailwindCSS</strong>
+        <br /><strong>Emotion</strong>
       </td>
+     
       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-redux-480.png"
@@ -146,6 +147,28 @@ ___
         />
         <br /><strong>Redux</strong>
       </td>
+     <td align="center" height="90" width="90">
+        <img
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-node-js-240.png"
+          width="48"
+          height="48"
+          alt="Node.js"
+          style="max-width: 100%"
+        />
+        <br /><strong>Node.js</strong>
+      </td>
+
+      <td align="center" height="90" width="90">
+        <img
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-express-js-500.png"
+          width="48"
+          height="48"
+          alt="Express.js"
+          style="max-width: 100%"
+        />
+        <br /><strong>Express.js</strong>
+      </td>
+      
       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
