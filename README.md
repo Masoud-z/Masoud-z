@@ -136,7 +136,6 @@ ___
         />
         <br /><strong>Emotion</strong>
       </td>
-     
       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-redux-480.png"
@@ -157,7 +156,6 @@ ___
         />
         <br /><strong>Node.js</strong>
       </td>
-
       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-express-js-500.png"
@@ -168,7 +166,6 @@ ___
         />
         <br /><strong>Express.js</strong>
       </td>
-      
       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
