@@ -69,6 +69,16 @@ ___
       </td>
      <td align="center" height="90" width="90">
         <img
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-redux-480.png"
+          width="48"
+          height="48"
+          alt="Redux"
+          style="max-width: 100%"
+        />
+        <br /><strong>Redux</strong>
+      </td>
+     <td align="center" height="90" width="90">
+        <img
           src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-html5-480.png"
           width="48"
           height="48"
@@ -107,6 +117,13 @@ ___
         />
         <br /><strong>MaterialUI</strong>
       </td>
+     
+    </tr>                             
+  </tbody>
+</table>
+<table align="center">
+  <tbody align="center">
+    <tr align="center">
       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
@@ -117,12 +134,6 @@ ___
         />
         <br /><strong>Bootstrap</strong>
       </td>
-    </tr>                             
-  </tbody>
-</table>
-<table align="center">
-  <tbody align="center">
-    <tr align="center">
       <td align="center" height="90" width="90">
         <img
           src="https://emotion.sh/logo-96x96.png"
@@ -133,16 +144,7 @@ ___
         />
         <br /><strong>Emotion</strong>
       </td>
-      <td align="center" height="90" width="90">
-        <img
-          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-redux-480.png"
-          width="48"
-          height="48"
-          alt="Redux"
-          style="max-width: 100%"
-        />
-        <br /><strong>Redux</strong>
-      </td>
+      
      <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-node-js-240.png"
