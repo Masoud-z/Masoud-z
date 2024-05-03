@@ -22,8 +22,7 @@
 
 ___
 
-### :hammer_and_wrench: Languages and Tools :                                                                                                                         
-                                                                                                                                     
+### :hammer_and_wrench: Languages and Tools :                                                                                                                                                                                                                             
 <table align="center">
   <tbody align="center">
     <tr align="center">
@@ -117,7 +116,6 @@ ___
         />
         <br /><strong>MaterialUI</strong>
       </td>
-     
     </tr>                             
   </tbody>
 </table>
@@ -144,7 +142,6 @@ ___
         />
         <br /><strong>Emotion</strong>
       </td>
-      
      <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-node-js-240.png"
