@@ -12,9 +12,6 @@
  </div>
  </br>
 <div id="badges" align="center">
-  <a href="http://masoud.live/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Personal Website-blue?style=for-the-badge" title="Personal Website" alt="Personal Website Badge"/>
- </a>
  <a href="https://www.linkedin.com/in/masoud-zeinalabedini/" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn alt="LinkedIn Badge"/>
  </a>
@@ -30,26 +27,6 @@ ___
 <table align="center">
   <tbody align="center">
     <tr align="center">
-      <td align="center" height="90" width="90">
-        <img
-          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-html5-480.png"
-          width="48"
-          height="48"
-          alt="HTML"
-          style="max-width: 100%"
-        />
-        <br /><strong>HTML5</strong>
-      </td>
-      <td align="center" height="90" width="90">
-        <img
-          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-css-240.png"
-          width="48"
-          height="48"
-          alt="CSS3"
-          style="max-width: 100%"
-        />
-        <br /><strong>CSS3</strong>
-      </td>
       <td align="center" height="90" width="90">
         <img
           src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-javascript-480.png"
@@ -89,6 +66,26 @@ ___
           style="max-width: 100%"
         />
         <br /><strong>Next.js</strong>
+      </td>
+     <td align="center" height="90" width="90">
+        <img
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-html5-480.png"
+          width="48"
+          height="48"
+          alt="HTML"
+          style="max-width: 100%"
+        />
+        <br /><strong>HTML5</strong>
+      </td>
+      <td align="center" height="90" width="90">
+        <img
+          src="https://raw.githubusercontent.com/Masoud-z/icons/main/icons8-css-240.png"
+          width="48"
+          height="48"
+          alt="CSS3"
+          style="max-width: 100%"
+        />
+        <br /><strong>CSS3</strong>
       </td>
       <td align="center" height="90" width="90">
         <img
