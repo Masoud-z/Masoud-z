@@ -8,7 +8,7 @@
   A FrontEnd Developer
 </h1>
 <div id="aboutMe" align="center">
- :technologist: Coding on <b>ReactJS</b> and dreaming on <b>ReactJS</b>, Help companies to build complex web applications serving 1000+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
+ :technologist: Coding on <b>ReactJS</b> and dreaming on <b>ReactJS</b>, Help companies to build complex web applications serving 20k+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
  </div>
  <br />
 <div id="badges" align="center">
@@ -189,10 +189,6 @@ ___
 
 ___
 
-<h3 id="badges" align="center" > 
-  Fortunately I got hired soon after I started learning. Since all the codes I've written for the companies have been private, my Github account makes it look like I didn’t code at all. But I have been busy writing code almost every day for past years.
-                                                                                                                                        
- </h3>
                               
 ___
 
@@ -200,8 +196,8 @@ ___
 
 
 - 📫 Email: masoud.zeinalabedini@gmail.com
-- <img src="https://raw.githubusercontent.com/Masoud-z/Masoud-z/8b5163f78fdb223d5244fdf50a42f06e06aed444/291709_logo_linked%20in_social%20network_social_social%20media_icon.svg" title="LinkedIn" alt="LinkedIn" width="16" height="16" /> LinkedIn: https://www.linkedin.com/in/masoud-zeinalabedini 
-- <img src="https://raw.githubusercontent.com/Masoud-z/Masoud-z/202fcb428e29f72658feae61b91013aaf51e3964/3787425_telegram_logo_messanger_social_social%20media_icon.svg" title="Telegram" alt="Telegram" width="16" height="16" /> Telegram: https://t.me/M_Zinalabedini
+- <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" title="LinkedIn" alt="LinkedIn" width="16" height="16" /> LinkedIn: https://www.linkedin.com/in/masoud-zeinalabedini 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="16" height="16" /> Telegram: https://t.me/M_Zinalabedini
 
 
 
