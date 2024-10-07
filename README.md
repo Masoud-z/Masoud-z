@@ -183,11 +183,11 @@ ___
 
  <div id="stats" align="center">
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masoud-z&show_icons=true&layout=compact&theme=vision-friendly-light)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masoud-z&show_icons=true&layout=compact&theme=react)
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud-z&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud-z&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
  
  </div>
