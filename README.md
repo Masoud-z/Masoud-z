@@ -182,8 +182,13 @@ ___
 ___
 
  <div id="stats" align="center">
-
+<div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masoud-z&show_icons=true&theme=radical)
+</div>
+  
+  <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud-z&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
  
  </div>
 
