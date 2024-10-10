@@ -18,6 +18,9 @@
   <a href="mailto:masoud.zeinalabedini@gmail.com" target="_blank"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail Badge"/>
  </a>
+ <a href="https://t.me/M_Zinalabedini" target="_blank"> 
+  <img src="https://img.shields.io/badge/Telegram-M_Zinalabedini-blue?logo=telegram&labelColor=white" title="Telegram" alt="Telegram Badge"/>
+ </a>
 </div>
 
 ___
