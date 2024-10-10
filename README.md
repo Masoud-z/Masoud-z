@@ -15,7 +15,7 @@
  <a href="https://www.linkedin.com/in/masoud-zeinalabedini/" target="_blank" style="text-decoration: none;" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn alt="LinkedIn Badge"/></a>&nbsp;
   <a href="mailto:masoud.zeinalabedini@gmail.com" target="_blank" style="text-decoration: none;" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail Badge"/></a>&nbsp;
  <a href="https://t.me/M_Zinalabedini" target="_blank" style="text-decoration: none;" > 
-  <img src="https://img.shields.io/badge/Telegram-M_Zinalabedini-#24A1DE?logo=telegram&labelColor=aliceblue&style=for-the-badge" title="Telegram" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-M_Zinalabedini-deepskyblue?logo=telegram&labelColor=aliceblue&style=for-the-badge" title="Telegram" alt="Telegram Badge"/>
  </a>
 </div>
 
