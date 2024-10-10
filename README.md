@@ -8,7 +8,7 @@
   A FrontEnd Engineer
 </h1>
 <div id="aboutMe" align="center">
- :technologist: Coding on <b>ReactJS</b> and dreaming on <b>ReactJS</b>, Help companies to build complex web applications serving 20k+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
+ :technologist: Coding on <b>React</b> and dreaming on <b>React</b>, Help companies to build complex web applications serving 20k+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
  </div>
  <br />
 <div id="badges" align="center">
