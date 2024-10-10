@@ -12,6 +12,8 @@
  </div>
  <br />
 <div id="badges" align="center">
+ [![Telegram Badge](https://img.shields.io/badge/Telegram-M_Zinalabedini-blue?logo=telegram&labelColor=aliceblue&style=for-the-badge)](https://t.me/M_Zinalabedini)
+
  <a href="https://www.linkedin.com/in/masoud-zeinalabedini/" target="_blank" style="text-decoration: none;" > 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn alt="LinkedIn Badge"/>
  </a> &nbsp;
