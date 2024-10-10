@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail Badge"/>
  </a>
  <a href="https://t.me/M_Zinalabedini" target="_blank"> 
-  <img src="https://img.shields.io/badge/Telegram-exampleChannel-blue?logo=telegram&labelColor=beige&style=for-the-badge" title="Telegram" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-exampleChannel-blue?logo=telegram&labelColor=aliceblue&style=for-the-badge" title="Telegram" alt="Telegram Badge"/>
  </a>
 </div>
 
