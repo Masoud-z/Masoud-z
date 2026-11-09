@@ -5,10 +5,10 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br />
   This is Masoud,  
-  A FrontEnd Engineer
+  A GTM Engineer
 </h1>
 <div id="aboutMe" align="center">
- :technologist: Coding on <b>React</b> and dreaming on <b>React</b>, Help companies to build complex web applications serving 20k+ users with React and modern technologies. Now I strive to find new horizons and expand my knowledge and experience.
+ :technologist: Building <b>GTM strategies</b> and thinking about <b>growth</b>, helping companies turn market opportunities into qualified pipeline through strategic prospecting, data-driven outreach, and scalable go-to-market systems. Now I strive to explore new horizons at the intersection of technology, sales, and business growth.
  </div>
  <br />
 <div id="badges" align="center">
